@@ -1,0 +1,5 @@
+province = input("도 : ")
+city = input("시 : ")
+district = input("구 : ")
+other = input("나머지 : ")
+print("저의 주소는", province, city, district, other, "입니다.")
